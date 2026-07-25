@@ -10,4 +10,4 @@ Developed an IMU-controlled wireless mobile robot using Arduino, MPU9250, and PI
 ▶️ ( https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view?usp=sharing )
 
 ## Report
-📄 [Project Report](IMU_Controlled_Robot_Final_Report .pdf)
+📄 [Project Report](IMU_Controlled_Robot_Final_Report.pdf)
